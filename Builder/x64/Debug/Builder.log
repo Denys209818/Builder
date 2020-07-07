@@ -1,0 +1,6 @@
+﻿  MainBuilder.cpp
+  StoneBuilder.cpp
+  WoodenBuilder.cpp
+  Создание кода...
+C:\Users\Denis\Desktop\Новая папка\Builder\Builder\MainBuilder.cpp(8,9): warning C4101: nbild: неиспользованная локальная переменная
+  Builder.vcxproj -> C:\Users\Denis\Desktop\Новая папка\Builder\x64\Debug\Builder.exe
